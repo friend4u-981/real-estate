@@ -10,3 +10,8 @@ nbproject
 composer.lock
 vendor
 composer.phar
+zf.php
+config
+data
+public
+module/Application
